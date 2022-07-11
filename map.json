@@ -848,7 +848,7 @@
         {
          "columns":38,
          "firstgid":1,
-         "image":"newmap-master\/src\/assets\/Jcity.png",
+         "image":"src\/assets\/Jcity.png",
          "imageheight":512,
          "imagewidth":1216,
          "margin":0,
@@ -861,7 +861,7 @@
         {
          "columns":16,
          "firstgid":609,
-         "image":"newmap-master\/src\/assets\/accessory.png",
+         "image":"src\/assets\/accessory.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -874,7 +874,7 @@
         {
          "columns":39,
          "firstgid":865,
-         "image":"newmap-master\/src\/assets\/kanagawa.png",
+         "image":"src\/assets\/kanagawa.png",
          "imageheight":1216,
          "imagewidth":1248,
          "margin":0,
@@ -1104,7 +1104,7 @@
         {
          "columns":45,
          "firstgid":2347,
-         "image":"newmap-master\/src\/assets\/station.png",
+         "image":"src\/assets\/station.png",
          "imageheight":512,
          "imagewidth":1440,
          "margin":0,
@@ -1326,7 +1326,7 @@
         {
          "columns":43,
          "firstgid":3067,
-         "image":"newmap-master\/src\/assets\/osaka.png",
+         "image":"src\/assets\/osaka.png",
          "imageheight":672,
          "imagewidth":1376,
          "margin":0,
@@ -1660,7 +1660,7 @@
         {
          "columns":36,
          "firstgid":3970,
-         "image":"newmap-master\/src\/assets\/barday.png",
+         "image":"src\/assets\/barday.png",
          "imageheight":1344,
          "imagewidth":1152,
          "margin":0,
@@ -1830,7 +1830,7 @@
         {
          "columns":20,
          "firstgid":5482,
-         "image":"newmap-master\/src\/assets\/graveyard.png",
+         "image":"src\/assets\/graveyard.png",
          "imageheight":512,
          "imagewidth":640,
          "margin":0,
@@ -1843,7 +1843,7 @@
         {
          "columns":43,
          "firstgid":5802,
-         "image":"newmap-master\/src\/assets\/Darktokyo.png",
+         "image":"src\/assets\/Darktokyo.png",
          "imageheight":800,
          "imagewidth":1376,
          "margin":0,
@@ -1909,7 +1909,7 @@
         {
          "columns":33,
          "firstgid":6877,
-         "image":"newmap-master\/src\/assets\/Arcade.png",
+         "image":"src\/assets\/Arcade.png",
          "imageheight":832,
          "imagewidth":1056,
          "margin":0,
@@ -2207,7 +2207,7 @@
         {
          "columns":6,
          "firstgid":7735,
-         "image":"newmap-master\/src\/assets\/WA_Special_Zones.png",
+         "image":"src\/assets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -2230,7 +2230,7 @@
         {
          "columns":16,
          "firstgid":7747,
-         "image":"newmap-master\/src\/assets\/neonB.png",
+         "image":"src\/assets\/neonB.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2243,7 +2243,7 @@
         {
          "columns":16,
          "firstgid":8003,
-         "image":"newmap-master\/src\/assets\/neonC.png",
+         "image":"src\/assets\/neonC.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2256,7 +2256,7 @@
         {
          "columns":16,
          "firstgid":8259,
-         "image":"newmap-master\/src\/assets\/neonD.png",
+         "image":"src\/assets\/neonD.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2269,7 +2269,7 @@
         {
          "columns":18,
          "firstgid":8515,
-         "image":"newmap-master\/src\/assets\/Cyberlove.png",
+         "image":"src\/assets\/Cyberlove.png",
          "imageheight":512,
          "imagewidth":576,
          "margin":0,
@@ -2539,7 +2539,7 @@
         {
          "columns":12,
          "firstgid":8803,
-         "image":"newmap-master\/src\/assets\/Misc.png",
+         "image":"src\/assets\/Misc.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
